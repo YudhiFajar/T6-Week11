@@ -28,6 +28,6 @@ Aplikasi Desktop "Post Manager" yang dibangun menggunakan Python dan PySide6. Ap
    ```
 
 ## Hasil Screenshot
-![Screenshot](screenshot(1).png)
-![Screenshot](screenshot(2).png)
-![Screenshot](screenshot(3).png)
+![Screenshot](screenshot (1).png)
+![Screenshot](screenshot (2).png)
+![Screenshot](screenshot (3).png)
